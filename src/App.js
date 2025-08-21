@@ -46,7 +46,6 @@ function App() {
           </li>
         </ul>
       </div>
-      <Analytics />
     </div>
   );
 }
